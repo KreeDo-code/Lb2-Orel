@@ -1,0 +1,168 @@
+a { 
+    text-decoration: none; 
+          } 
+.bg {
+background: url(image/fon.jpg) center center no-repeat;
+    
+width: 600px;
+height: 400px;
+}
+.bg2 {
+    background: url(image/fon1.png) center center no-repeat;
+width: 600px;
+height: 400px;
+}
+
+.bg span {
+color: #ffffff;
+font-family: arial,'helvetica neue', helvetica, sans-serif;
+margin: 40% 40%;
+}
+h1 {
+    Margin: 0;
+    line-height: 120%;
+    font-family: arial, 'helvetica neue', helvetica, sans-serif;
+    font-size: 20px;
+    color: #333333;
+    margin: 20px;
+}
+h2 {
+    line-height: 120%;
+    font-family: arial, 'helvetica neue', helvetica, sans-serif;
+    color: #333333;
+    margin: 10px;
+}
+h3 {
+    background: #333333; 
+    color: #ffffff; 
+    padding: 10px; 
+    border-radius: 3px; 
+    width: 96%;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 0px;
+}
+h4 {
+    Margin: 10;
+    color: #666666;
+    line-height: 120%;
+    font-size: 14px;
+    font-family: arial, 'helvetica neue', helvetica, sans-serif;
+}
+h5{
+    background: #a2c4c9; 
+    color: #ffffff; 
+    padding: 8px; 
+    border-radius: 5px; 
+    width: 76%;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    margin: 20px 0;
+}
+p{
+    color: #333333;
+    font-size: 15px;
+    font-family: arial, 'helvetica neue', helvetica, sans-serif;
+    margin-bottom: -10px;
+}
+
+p1{
+    position: absolute;
+    color: #ffffff; 
+    width: 40%;
+    height:7%;
+    margin:20% 0%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    font-size: 16px;
+}
+p2{
+    position: absolute;
+    color: #333333;
+    background: white;
+    padding: 80px; 
+    border-radius: 4px; 
+    width: 230px;
+    height: 40px;
+    margin:12% 7%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    font-size: 16px;
+}
+.img{
+    margin: 0;
+    padding: 10;
+    position: relative;
+    width: 130px;
+    height:130px;
+    margin-bottom: 10px;
+}
+.img2{
+    margin:0;
+    padding:0;
+    position: relative;
+    width: 166px;
+    height:290px;
+    margin-top: 30px;
+    border-radius: 3px; 
+}
+.button {
+    background: #a2c4c9; 
+    color: #ffffff; 
+    padding: 8px; 
+    border-radius: 5px; 
+    width: 20%;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    margin: 20px 0;
+   }
+.signature1{
+    background: #333333; 
+    color: #ffffff; 
+    padding: 10px; 
+    border-radius: 3px; 
+    width: 88%;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: -4px;
+}
+.signature2{
+    background: #333333; 
+    color: #ffffff; 
+    padding: 10px; 
+    border-radius: 3px; 
+    width: 56%;
+    height: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: -4px;
+}
+.signature3{
+    background: #333333; 
+    color: #ffffff; 
+    padding: 1px; 
+    border-radius: 3px; 
+    width:auto;
+    height: 27px;
+    font-family: arial,'helvetica neue', helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: -4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -4px;
+}
+
